@@ -17,3 +17,20 @@
   </tr>
 </table>
 <a href="https://jasminegermano.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/d6317629-3753-4be7-be4d-2e119b020918"/></a>
+<table style="width: 100%;" align="center">
+  <tr style="vertical-align: middle;">
+    <td width="600">
+      <h2 align="center">🧺 Tecnologias preferidas!</h2>
+      <p align="center">
+        React | TypeScript | Next.js | JavaScript | C# e .NET
+      </p>
+      <p align="center">
+        - ⭐ Sempre explorando novas techs com curiosidade
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/51f2973f-c363-48bd-97bd-87c2a96e30c6" width="500"/>
+    </td>
+  </tr>
+</table>
+
