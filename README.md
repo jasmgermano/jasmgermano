@@ -6,11 +6,14 @@
     <td>
       <h2 align="center">⋆.˚✮ Olá, eu sou a Jas!</h2>
       <h4 align="center">🐇🌷💻 Desenvolvedora web </h4>
-      <br /><br />
-      <p align="left">
+      <p align="center">
+        Tento transformar ideias em experiências digitais com propósito.  
+        Amo unir código, design e criatividade pra construir projetos que sejam funcionais, bonitos e com personalidade.
       </p>
-      <p align="left">
+      <p align="center">
+        🎓 Formada em Ciência da Computação pela UNIFAL 
       </p>
     </td>
   </tr>
 </table>
+<a href="https://jasminegermano.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/d6317629-3753-4be7-be4d-2e119b020918"/></a>
