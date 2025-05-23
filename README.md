@@ -34,3 +34,22 @@
   </tr>
 </table>
 
+<details>
+<summary><h2>── ★ Projetos em destaque !!</h2></summary>
+  <details>
+    <summary><h3>★ Cripa</h3></summary>
+    <img src="https://github.com/user-attachments/assets/b131ef65-a233-4586-a328-169c2171c1f0" width="100"/>
+    <br />
+    Jogo online onde o usuário deve decifrar palavras com base em dicas, estimulando lógica e raciocínio. 
+    <br />
+    🔗 <a href="https://github.com/jasmgermano/cripa" target="_blank">Acesse aqui!</a>
+  </details>
+  <details>
+    <summary><h3>★ Rekoob</h3></summary>
+    <img src="https://private-user-images.githubusercontent.com/91095520/444519457-aeabea2c-dd1a-446c-9b34-8779398da3e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwMDg1MDYsIm5iZiI6MTc0ODAwODIwNiwicGF0aCI6Ii85MTA5NTUyMC80NDQ1MTk0NTctYWVhYmVhMmMtZGQxYS00NDZjLTliMzQtODc3OTM5OGRhM2U0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIzVDEzNTAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0YzAyMzJhMTNjZmQ3NWJkYzJkY2Q3NzZhYjE2N2VjZGFlYzNjODIwZTNjNDFmMTI1N2I0ZmY5ZmI3YWUxZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ThIx-nv4NzoHizejdrkerMSIpryTDsaPFL7Sn554vV0" width="100"/>
+    <br />
+    Gera uma imagem com as capas dos livros lidos no mês a partir do perfil do usuário no "skoob", permitindo compartilhar a evolução literária nas redes sociais.  
+    <br />
+    🔗 <a href="https://github.com/jasmgermano/skoob-recap" target="_blank">Acesse aqui!</a>
+  </details>
+</details>
